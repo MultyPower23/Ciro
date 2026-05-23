@@ -48,3 +48,8 @@ git diff — ves exactamente qué líneas cambiaron
 git restore archivo.js — deshaces cambios en un archivo antes de hacer add
 git reset HEAD~1 — deshaces el último commit pero conservas los cambios
 git revert ID-commit — crea un commit nuevo que deshace uno anterior (más seguro en equipos)
+
+
+
+cerrar sesion en la tecnica (version git 2.51.windows.1) en BASH:
+  printf "protocol=https\nhost=github.com\n" | git credential-manager erase
