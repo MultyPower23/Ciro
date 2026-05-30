@@ -53,3 +53,5 @@ git revert ID-commit — crea un commit nuevo que deshace uno anterior (más seg
 
 cerrar sesion en la tecnica (version git 2.51.windows.1) en BASH:
   printf "protocol=https\nhost=github.com\n" | git credential-manager erase
+
+  git credential-manager github login
