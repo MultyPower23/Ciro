@@ -1,0 +1,36 @@
+0.0|Todas|dai dai dai daisuki na hodo daisuki na hodo daisuki na hodo tomaranai
+6.0|Hakari|wagamama na
+7.0|Karane|kono kimochi
+8.0|Shizuka|kimi wa,
+8.5|Nano|kimi wa,
+9.0|Kusuri|kimi wa
+10.0|Todas|watashi no sekai de tada hitori taisetsu na hito (honto)
+14.0|Todas|daisuki (gyu)
+16.0|Instrumental|
+26.0|Hakari|me to me de kanjiaechau unmei wa doushitatte
+30.0|Karane|hikareai no gurabiti souseiki
+34.0|Todas|kimi wa sunlight eye dakara
+36.0|Hakari|kimi ga mucha na honki miseru tabi
+38.0|Shizuka|sugoku sugoku sugoku itoshikute
+41.0|Hakari,Karane|kimi no suki na watashi hokorashii no
+44.0|Kusuri|shinhakken da mon ima
+46.0|Shizuka|massugu,
+47.0|Nano|massugu,
+49.0|Kusuri|massugu
+50.0|Shizuka,Nano,Kusuri|mitsumeraretara
+51.0|Hakari|dou shiyou,
+52.0|Karane|dou shiyou
+54.0|Hakari,Karane|nandatte dekichaisou da yo
+57.0|Shizuka,Nano,Kusuri|(nandatte kimi no tame nara ne)
+60.0|Todas|dai dai dai daisuki na hito daisuki na hito daisuki na hito dou shimasho
+66.0|Hakari|rabu no kyapa mujinzou ni
+68.0|Shizuka|watashi,
+69.0|Nano|watashi,
+70.0|Kusuri|watashi mo da yo
+71.0|Todas|dakara daisuki ageru daisuki ageru daisuki ageru no nankai demo ne
+77.0|Karane|hayaku dakishimete yo,
+79.0|Todas|kisu mo shiyou yo
+81.0|Shizuka|hyakku bun no ichi janai,
+83.0|Nano|kakeru hyakku no
+84.0|Kusuri|ai o abishite (ippai)
+86.0|Todas|daisuki (chuu)
