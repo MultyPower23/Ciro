@@ -80,7 +80,7 @@ time.sleep(0.8)
 print("Decodificando datos...")
 time.sleep(1)
 
-with open("data.txt", "r") as f:
+with open("Propios/Grandes/dai/data1.txt", "r") as f:
     audio_b64 = f.read()
 
 datos = base64.b64decode(audio_b64)
@@ -95,7 +95,7 @@ print("Inicializando reproductor...")
 time.sleep(0.6)
 
 # ------------------ CARGAR LETRA SINCRONIZADA ------------------
-letra = cargar_letra("config.txt")
+letra = cargar_letra("Propios/Grandes/dai/config.txt")
 
 # ------------------ REPRODUCIR ------------------
 pygame.mixer.init()
